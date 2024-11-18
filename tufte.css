@@ -97,7 +97,7 @@ hr {
     border: 0;
     border-top: 1px solid #ccc;
     margin: 1em 0;
-    padding: 0;
+    padding: auto !important;
 }
 
 p.subtitle {
@@ -137,7 +137,6 @@ ul {
 p {
     margin-top: 1.4rem;
     margin-bottom: 1.4rem;
-    padding-right: 0;
     vertical-align: baseline;
 }
 
